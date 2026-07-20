@@ -1,4 +1,4 @@
-Yes this was made using AI.
+Yes, this was made using AI.
 # QrLink
 
 Premium QR code generator. Every QR code encodes a secure short link (`/r/:id`) instead of the raw URL, enabling expiration, one-time scans, and live scan tracking.
